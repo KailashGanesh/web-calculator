@@ -72,7 +72,7 @@ button {
     grid-column-end: 5;
   }
   
-  .equal-sign:hover {
+  .equal:hover {
     background-color: #1b5c86;
   }
 
