@@ -2,4 +2,6 @@
 
 Calculator made from HTML, CSS and JavaScript.
 
-Live Demo: [https://kailashganesh.github.io/webcalculator/](https://kailashganesh.github.io/webcalculator/)
+Click here for [Live Demo](https://kailashganesh.github.io/webcalculator/)
+
+Made following this [Tutorial](https://freshman.tech/css-grid-calculator/)
